@@ -1,0 +1,5 @@
+gTTS==2.3.2
+PyQt5==5.15.9
+pdfplumber==0.9.0
+python-docx==0.8.11
+langdetect==1.0.9
